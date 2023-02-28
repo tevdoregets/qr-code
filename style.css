@@ -1,0 +1,38 @@
+.card {
+  width: 320px;
+  height: 500px;
+  margin: 80px 500px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.qr {
+  width: 280px;
+  height: 280px;
+  padding: 20px 20px;
+  border-radius: 30px;
+}
+
+body {
+  background-color: #d5e1ef;
+  font-family: "Outfit", sans-serif;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 22px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #1f314f;
+  line-height: 27px;
+  text-align: center;
+}
+
+p {
+  font-weight: 500;
+  font-size: 15px;
+  margin-left: 30px;
+  margin-right: 30px;
+  color: #7d889e;
+  text-align: center;
+}
